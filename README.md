@@ -4,7 +4,7 @@
 
 > SuiteUp is a simulation of a hotel room reservation system.
 It enables users to make room reservations.
-It also allows users to see all of their reservations in a list format, delete a room only if it is empty, and all visitors can see unreserved rooms. You can check the source code for frontend [here](https://github.com/felixodette/hotel-room-frontend).
+It also allows users to see all of their reservations in a list format, delete a room only if it is empty, and all visitors can see unreserved rooms. You can check the source code for frontend [here](https://github.com/kamzzy/hotel-room-frontend).
 
 
 
@@ -14,8 +14,8 @@ It also allows users to see all of their reservations in a list format, delete a
 ![hotel_schema](https://user-images.githubusercontent.com/25887253/195716717-f4418b7c-9b82-4899-909a-11223c66b065.png)
 
 ## Live Demo
-- [Front End](https://hotel-room-frontend.vercel.app/) 
-- [Back End API](https://afternoon-fjord-27064.herokuapp.com/)
+- [Front End](https://silly-kitsune-003029.netlify.app/) 
+- [Back End API](https://suiteup-backend.onrender.com/)
 
 ## Built With
 
