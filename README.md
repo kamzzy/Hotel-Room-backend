@@ -134,32 +134,13 @@ To install rails, in the terminal kindly run this command
 ```
 $ gem install rails
 ```
-## Authors
-
-👤 **Ahmad Zamir Yousufi** <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>
-
-- GitHub: [@ahzamir](https://github.com/ahzamir).
-- Twitter: [@YousufiZamir](https://twitter.com/YousufiZamir)
-- LinkedIn: [ahzamir](https://www.linkedin.com/in/ahzamir/)
-
-👤 **Huseyin Biyik** <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>
-
-- GitHub: [@huseyinbiyik](https://github.com/huseyinbiyik).
-- Twitter: [@huseyin__biyik](https://twitter.com/huseyin__biyik)
-- LinkedIn: [Huseyin_biyik](http://www.linkedin.com/in/tahahuseyinbiyik/)
+## Author
 
 👤 **Precious Akams** <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>
 
 - GitHub: [@kamzzy](https://github.com/kamzzy).
 - Twitter: [@precious_akams](https://twitter.com/precious_akams)
 - LinkedIn: [Onyeagoziri_Akams](https://www.linkedin.com/in/Onyeagoziri_Akams/)
-
-👤 **Felix Odete** <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>
-
-- GitHub: [@felixodette](https://github.com/felixodette).
-- Twitter: [@Odette3000](https://twitter.com/Odette3000)
-- LinkedIn: [Felix_Odete](https://www.linkedin.com/in/Felix_Odete/)
-
 
 ## 🤝 Contributing
 
